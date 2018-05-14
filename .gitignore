@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# .DS_Store
+*.DS_Store
+
+# mnist_cnn
+mnist_cnn/images/
+mnist_cnn/mnist_data/
+
+# static
+static/
+!static/css/
+!static/js/
