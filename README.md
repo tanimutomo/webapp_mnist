@@ -15,4 +15,5 @@ https://anaconda.org/
 #### You can't install the library for ML
 You can maybe install chainer...
 
-
+#### mod_wsgi周りでハマって徹夜した件（マジで一緒）
+http://log.utahta.com/blog/2011/01/16/mod_wsgi-tetuya/

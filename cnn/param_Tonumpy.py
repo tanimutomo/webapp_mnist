@@ -1,0 +1,1 @@
+import numpy as npimport torchimport _pickleparam = torch.load('mnist_model_linear.pth')(w_index, w), (b_index, b) = param.items()w_numpy = w.numpy()b_numpy = b.numpy()param_linear = (w_index, w_numpy, b_index, b_numpy)with open('param_linear.pkl', 'wb') as f:    _pickle.dump(param_linear, f)

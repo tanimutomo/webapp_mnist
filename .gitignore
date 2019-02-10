@@ -110,3 +110,8 @@ venv.bak/
 mnist_cnn/images/
 mnist_cnn/mnist_data/
 
+*.jpeg
+*.png
+*.JPG
+*.pth
+MNIST_data/
